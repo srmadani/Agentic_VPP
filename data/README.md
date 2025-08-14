@@ -1,4 +1,4 @@
-# VPP Prosumer Profile Generator
+# Prosumer Profile Generator & Market Rates Collector
 
 ## Overview
 
