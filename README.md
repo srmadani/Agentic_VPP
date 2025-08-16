@@ -76,7 +76,3 @@ final_state = run_vpp_simulation(first_day_only=True)
 
 ## Where to find full data & preprocessing docs
 See `data/README.md` for detailed notes on data sources, profile generation, and the market data preprocessing pipeline.
-
-## Next steps (suggested)
-- Add a small unit test for `find_best_dr_opportunities` and `calculate_dissatisfaction` that runs quickly without LLM calls.
-- Add a minimal runner script `run_simulation.py` that wraps `run_vpp_simulation()` and writes out `simulation_results.pkl` for CI and non‑interactive use.
